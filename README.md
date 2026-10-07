@@ -1,10 +1,11 @@
 # Natã Relva
 
-**Engenheiro de Software Sênior · Backend, APIs e Integrações**
+**Engenheiro de Software Sênior · Backend, APIs e Arquitetura de Sistemas**
 
-Atuo com desenvolvimento fullstack, sustentação e evolução de sistemas. Meu trabalho envolve investigar problemas em produção, entender regras de negócio, integrar serviços e melhorar desempenho e confiabilidade.
+Engenheiro de Software Sênior com sólida atuação no desenvolvimento, sustentação e evolução de sistemas distribuídos de alta complexidade. Especialista no diagnóstico de problemas críticos em produção, modelagem de regras de negócio complexas (DDD), integração de serviços heterogêneos e otimização de desempenho e resiliência.
 
-Minha experiência reúne Ruby on Rails, Node.js/TypeScript, Python e React, além de PostgreSQL, Redis, Elasticsearch, AWS e Docker. Trabalho com testes automatizados, processamento assíncrono e observabilidade para acompanhar as mudanças da implementação à operação.
+Domínio prático de Ruby on Rails, Node.js/TypeScript, Python, Go e React, suportado por infraestrutura baseada em PostgreSQL, Redis, Elasticsearch, AWS e Docker. Forte cultura de automação de testes, processamento assíncrono orientados a eventos (EDA) e observabilidade ponta a ponta (logs, métricas e tracing), cobrindo do deploy à operação em produção.
+
 
 ## Projetos selecionados
 
