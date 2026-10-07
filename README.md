@@ -1,20 +1,27 @@
-# Olá, eu sou Natan Relva 👋
+# Natã Relva
 
-Desenvolvo aplicações web, serviços de backend e experimentos com sistemas em tempo real e IA. Aqui estão os projetos que melhor mostram meu trabalho em diferentes áreas.
+**Engenheiro de Software Sênior · Backend, APIs e Integrações**
 
-## Projetos em destaque
+Atuo com desenvolvimento fullstack, sustentação e evolução de sistemas. Meu trabalho envolve investigar problemas em produção, entender regras de negócio, integrar serviços e melhorar desempenho e confiabilidade.
 
-| Projeto | O que foi construído | Tecnologias |
+Minha experiência reúne Ruby on Rails, Node.js/TypeScript, Python e React, além de PostgreSQL, Redis, Elasticsearch, AWS e Docker. Trabalho com testes automatizados, processamento assíncrono e observabilidade para acompanhar as mudanças da implementação à operação.
+
+## Projetos selecionados
+
+Projetos pessoais e estudos técnicos que ilustram diferentes partes dessa experiência. Cada repositório tem seu próprio escopo e estágio de desenvolvimento.
+
+| Projeto | O que explora | Competências demonstradas |
 | --- | --- | --- |
-| [FoodTrack](https://github.com/natanrelva/FoodTrackRN) | Plataforma para operações de restaurantes, com aplicações para cliente, gestão, cozinha e entregas. | TypeScript, React, Express, PostgreSQL, Redis, Socket.IO |
-| [Mini Marketplace de Serviços](https://github.com/natanrelva/super1) | Marketplace com frontend e backend, busca de serviços e infraestrutura local via Docker. | SvelteKit, Fastify, PostgreSQL, Redis, Elasticsearch |
-| [Hub Made in Natural](https://github.com/natanrelva/adaas) | Pipeline de integração e normalização de catálogos de fornecedores. | Python, ETL |
-| [Tradutor PT→EN em tempo real](https://github.com/natanrelva/dub-origin) | Protótipo de tradução de áudio com etapas de captura, reconhecimento de fala, tradução e síntese. | Rust, processamento de áudio |
-| [Visualização de cluster Kubernetes](https://github.com/natanrelva/cluster-graph-poc) | Prova de conceito para explorar recursos de um cluster em um grafo interativo. | Go, D3.js, Kubernetes |
-| [Anti-Fraud Agent](https://github.com/natanrelva/anti_fraud_agent) | Protótipo de monitoramento de processos com comunicação em tempo real e visualização 3D. | Python, FastAPI, React, Three.js, WebSocket |
+| [FoodTrack — operações de restaurantes](https://github.com/natanrelva/FoodTrackRN) | Pedidos e interfaces para cliente, gestão, cozinha e entrega. | TypeScript, React, regras de negócio, PostgreSQL, eventos e testes de pedidos. |
+| [Marketplace de serviços](https://github.com/natanrelva/super1) | Busca de profissionais, disponibilidade e reservas. | Node.js/Fastify, PostgreSQL, Redis, Elasticsearch e integração com frontend. |
+| [Visualização de Kubernetes](https://github.com/natanrelva/cluster-graph-poc) | Prova de conceito que acompanha recursos do cluster em um grafo; parte das métricas é simulada. | APIs de infraestrutura, Go, WebSocket e visualização de dependências. |
+| [Eventos e grafos em Ruby](https://github.com/natanrelva/me-x) | Estudo de processamento de eventos, persistência e visualização de grafos. | Ruby, processamento em lotes, SQLite e testes RSpec. |
+| [Visualização de workflows](https://github.com/natanrelva/pro-x) | Validação e conversão de um subconjunto de workflows JSON para grafos. | Python, validação de dados, transformação de estruturas e testes unitários. |
+| [Pipeline de catálogos e preços](https://github.com/natanrelva/pipeline_etl) | Experimento de extração web, interpretação com LLM e armazenamento de histórico de preços. | Python, integração de serviços, Pydantic e SQLAlchemy. |
 
-## Áreas de interesse
+## Foco profissional
 
-Backend e arquitetura de sistemas · Aplicações web · Processamento de dados · Áudio em tempo real · IA aplicada
-
-Confira os repositórios acima para ver o código, a arquitetura e as instruções disponíveis de cada projeto.
+- Backend e APIs orientadas a regras de negócio.
+- Integrações, processamento de dados e automação de rotinas.
+- Diagnóstico de falhas em aplicações, bancos de dados e serviços.
+- Testes, desempenho, observabilidade e manutenção de sistemas em produção.
